@@ -1,0 +1,46 @@
+body .ertil img {
+  position: relative;
+  top: 556px;
+  left: 1267px;
+}
+body .sec2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+  flex-wrap: wrap;
+}
+body .sec2 div img {
+  width: 412px;
+  height: 520px;
+}
+body .sec2 div h3 {
+  width: auto;
+  height: 58px;
+  font-family: Cormorant Upright;
+  font-weight: 600;
+  font-size: 45px;
+  line-height: 130%;
+  letter-spacing: 4%;
+  text-align: center;
+  text-transform: capitalize;
+  color: #FFFFFF;
+}
+body .sec2 div p {
+  width: auto;
+  height: 28px;
+  font-family: Open Sans;
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+  letter-spacing: 4%;
+  text-align: center;
+  position: relative;
+  top: -30px;
+}
+body .dertty img {
+  margin-left: 95px;
+}
+body .sec3 img {
+  width: 1470px;
+}/*# sourceMappingURL=Our Chefs (Team).css.map */

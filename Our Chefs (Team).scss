@@ -1,0 +1,65 @@
+body {
+    .ertil {
+        img {
+            position: relative;
+            top: 556px;
+            left: 1267px;
+        }
+    }
+
+    .sec2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 32px;
+        flex-wrap: wrap;
+
+        div {
+
+            img {
+                width: 412px;
+                height: 520px;
+            }
+
+            h3 {
+                width: auto;
+                height: 58px;
+                font-family: Cormorant Upright;
+                font-weight: 600;
+                font-size: 45px;
+                line-height: 130%;
+                letter-spacing: 4%;
+                text-align: center;
+                text-transform: capitalize;
+                color: #FFFFFF;
+            }
+
+            p {
+                width: auto;
+                height: 28px;
+                font-family: Open Sans;
+                font-weight: 400;
+                font-size: 16px;
+                color: #FFFFFF;
+                letter-spacing: 4%;
+                text-align: center;
+                position: relative;
+                top: -30px;
+            }
+        }
+    }
+
+    .dertty {
+
+        img {
+            margin-left: 95px;
+        }
+    }
+
+    .sec3 {
+        img {
+            width: 1470px;
+        }
+
+    }
+}
